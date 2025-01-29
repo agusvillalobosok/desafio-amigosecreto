@@ -27,7 +27,7 @@ function agregarAmigo () {
   
 }
 
-function sortearAmigo () = {
+function sortearAmigo () {
       if (nombres.length <= 1 ) {
         alert("No hay nombres suficientes, no se puede sortear"); 
         return; 
