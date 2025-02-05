@@ -1,6 +1,7 @@
 desafio-amigosecreto
 
 Funcionalidades.
+
 -Recoger la información en forma de texto introducido en el input validando con el boton "Agregar Amigo" 
 
 -Almacenar la información dentro de un array. 
